@@ -1,6 +1,9 @@
 kubernetes调度器原理和应用
 ===
 
+
+[![hackmd-github-sync-badge](https://hackmd.io/Rxn1mH6FTsiXu9lBV9o32w/badge)](https://hackmd.io/Rxn1mH6FTsiXu9lBV9o32w)
+
 目录：
 
 1. [调度的基本知识](#基本知识)
